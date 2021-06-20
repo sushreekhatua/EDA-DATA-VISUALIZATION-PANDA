@@ -1,1 +1,4 @@
-# EDA-Pandas
+# EDA-of 1993-New car dataset:
+    The 1993-New car datasets contains information on 93 new cars for the 1993 model year. Measures given include price, mpg ratings, engine size, body size, and indicators of features. The 26 variables in the dataset offer sufficient variety to illustrate a broad range of statistical techniques.
+
+Data were obtained from two sources, The 1993 Cars - Annual Auto Issue from Consumer Reports and the PACE New Car & Truck 1993 Buying Guide. Passenger cars or vans that were included in both sources were eligible for selection. A random sample of models given in the PACE Buying Guide was chosen and matched to cars covered in the Consumer Reports issue until a desired sample size of 93 was reached. Vehicles in the Pickup Truck and Sport/Utility category were excluded due to incomplete information in the Consumer Reports article. We also avoided multiple inclusions of cars which were essentially the same model (such as the Dodge Shadow and Plymouth Sundance).
